@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kabilan Jayabalan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=08FF08&center=true&vCenter=true&width=750&lines=AI+Enthusiast;Full+Stack+Developer;Spring+Boot+%7C+Java+Developer;DSA+Learner+%7C+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=08FF08&center=true&vCenter=true&width=750&lines=AI+Enthusiast;Full+Stack+Developer;Java+Developer;DSA+Learner+%7C+Problem+Solver" />
 </p>
 
 ---
@@ -54,13 +54,11 @@
 
 ---
 
-### 💻 Laptop Recommendation System (Full Stack + AI)
+### 🚌 BusTrack - Real-Time Bus Tracking System (Full Stack)
 
-**Tech Stack:** Spring Boot • React • PostgreSQL • Python (AI Model)
+**Tech Stack:** Node.js/Express • React Native • gRPC • Socket.io • MongoDB • Java (Android)
 
-🔹 Developed a full-stack web application that recommends laptops based on user requirements.  
-🔹 Integrated backend APIs with an AI-based recommendation model for intelligent suggestions.  
-🔹 Designed dynamic user input forms for budget, performance needs, brand preference, and usage type.  
+🔹 Developed a full-stack real-time bus tracking platform with cross-platform mobile apps, live location streaming via Socket.io and seat availablity status  
 
 ---
 
